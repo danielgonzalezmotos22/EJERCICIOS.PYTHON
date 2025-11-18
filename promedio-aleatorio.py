@@ -2,9 +2,9 @@ import random
 a = random.randint(1, 100) 
 
 
-def secuencia (promedio):
+def secuencia ():
    n = print (a)
-if __name__ == "__main__":
+if a == secuencia ():
     print (a)
 
 
