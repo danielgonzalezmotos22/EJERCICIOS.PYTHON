@@ -7,9 +7,3 @@ def dado ():
 
 if a == dado():
   print(a)
-
-#if    x == "s":
- #   print (a) 
-
-#else:
-    #print("tonto")
