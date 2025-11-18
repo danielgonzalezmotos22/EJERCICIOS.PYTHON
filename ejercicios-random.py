@@ -2,11 +2,10 @@ import  random
 
 #ejercicio 1
 a = random.randint (1, 10)
-def aleatorio (numero):
-    print (a)
+numero = input("Adivina el numero: ")
 
-if __name__ == "__main__":
-    numero = input("Adivina el numero: ")
+def aleatorio ():
+    print (a)
 
 if numero == a:
     print("Has hacertado")
