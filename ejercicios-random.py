@@ -1,4 +1,6 @@
 import  random
+
+#ejercicio 1
 a = random.randint (1, 10)
 def aleatorio (numero):
     print (a)
