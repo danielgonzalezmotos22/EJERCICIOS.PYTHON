@@ -1,1 +1,1 @@
-#holaprint ("Hola putos")print ("Hola putos")
+print ("Hola putos")
