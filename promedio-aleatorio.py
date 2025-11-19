@@ -1,13 +1,12 @@
 import random
-a = random.randint(1, 100) 
+num1 = random.randint(1, 100) 
+num2 = random.randint(1, 100)
+num3 = random.randint(1, 100) 
 
+print (num1)
+print (num2)
+print (num3)
 
-def secuencia ():
-   n = print (a)
-if a == secuencia ():
-    print (a)
+promedio = (num1 + num2 + num3) /3
 
-
-#no se como hacer que se haga la funcion 3 veces asi que lo he hecho manual y el promedio igual.
-#me daba 91, 95 y 67 el promedio de esos numeros es 84,3333333333
-
+print (promedio)
